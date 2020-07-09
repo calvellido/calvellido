@@ -2,7 +2,7 @@
 
 My name is Juan Valencia Calvellido and I'm a front-end developer focused on UI development through JavaScript technologies.
 
-![decorative image](https://github.com/calvellido/calvellido/blob/master/calvellido-background.png?raw=true)
+![decorative image](https://github.com/calvellido/calvellido/blob/master/calvellido-bg.png?raw=true)
 
 <!--
 **calvellido/calvellido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
